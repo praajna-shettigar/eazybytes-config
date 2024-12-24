@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related to prod APIs"
   contactDetails:
     name: "Rahaman - Product owner"
-    email: "f547d6878099dde46df1d92494f16bb02f1e2362d2d10eb443a11d32e0ddc9b4a80790d862454da319ebacf414b9393d"
+    email: "{cipher}f547d6878099dde46df1d92494f16bb02f1e2362d2d10eb443a11d32e0ddc9b4a80790d862454da319ebacf414b9393d"
   onCallSupport:
     -(555) 555-1111
     -(555) 523-1111
